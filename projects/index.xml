@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Fairese Technologies</title>
+    <link>https://www.fairese.com/projects/</link>
+    <description>Recent content in Projects on Fairese Technologies</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Aug 2019 15:23:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.fairese.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Next Anime Episode</title>
+      <link>https://www.fairese.com/projects/next-anime-episode/</link>
+      <pubDate>Sun, 25 Aug 2019 15:23:00 -0400</pubDate>
+      
+      <guid>https://www.fairese.com/projects/next-anime-episode/</guid>
+      <description>Download on the App Store | Privacy Policy
+Next Anime Episode does one job: To help you keep track of airing anime and when they will have a new episode available in Japan.
+Generally, sub based simulcast streaming services have the newest episodes available within one hour after they air in Japan.
+Simply browse the currently airing chart, select which anime you are interested in, and you will receive a notification when a new episode for your selected series is available.</description>
+    </item>
+    
+  </channel>
+</rss>
